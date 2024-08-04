@@ -1,2 +1,2 @@
-# spfx-build-extensions
-Extends the SharePoint Framework Build Tools with some useful capabilities when building and releasing SPFX applications.
+# Introduction
+This repository will deliver some extensions to the SharePoint Framework Tools to allow better version control of your SharePoint Framework Applications.
